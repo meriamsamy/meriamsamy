@@ -7,7 +7,7 @@
 ### Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-Fundamental-blueviolet?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-In%20Progress-orange?style=for-the-badge)
 
 ### 📫 Let's Connect
 - 💼 LinkedIn: [linkedin.com/in/meriam-samy-64444836a](https://www.linkedin.com/in/meriam-samy-64444836a)  
