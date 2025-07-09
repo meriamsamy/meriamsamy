@@ -19,8 +19,7 @@
 
 #### Tools & Libraries
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-Python%20GUI-yellow?style=for-the-badge)
-![Shiny](https://img.shields.io/badge/Shiny-R%20Framework-276DC3?style=for-the-badge)
+
 
 
 
