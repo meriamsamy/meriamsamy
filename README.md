@@ -2,7 +2,8 @@
 🎓 I'm an undergraduate AI student at the Faculty of Computers and Data Science, Alexandria University.  
 📚 Passionate about learning deeply in CS — especially algorithms, data structures, and machine learning.   
 💡 Always curious and passionate about solving real-world problems with code.  
-🌱 Currently solving algorithmic problems and building projects.  
+🌱 Currently solving algorithmic problems and building projects.      
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/UeFnKPS0YZ?theme=radical&font=Basic)
 
 
