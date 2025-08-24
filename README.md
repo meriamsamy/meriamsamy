@@ -3,6 +3,8 @@
 📚 Passionate about learning deeply in CS — especially algorithms, data structures, and machine learning.   
 💡 Always curious and passionate about solving real-world problems with code.  
 🌱 Currently solving algorithmic problems and building projects.  
+![LeetCode Stats](https://leetcard.jacoblin.cool/UeFnKPS0YZ?theme=radical&font=Basic)
+
 
 ### Skills
 
@@ -22,10 +24,9 @@
 
 
 
-
-
-
 ### 📫 Let's Connect
-- 💼 LinkedIn: [linkedin.com/in/meriam-samy-64444836a](https://www.linkedin.com/in/meriam-samy-64444836a)  
-- ✉️ Email: [meriamsamy215@gmail.com](mailto:meriamsamy215@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meriam-samy-64444836a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meriamsamy215@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/u/UeFnKPS0YZ/)
+
 
